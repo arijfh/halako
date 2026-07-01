@@ -1,4 +1,4 @@
-# 🕌 Halako — Super App for Muslims in Korea
+# 🕌 Halako Super App for Muslims in Korea
 
 > **A one-stop halal lifestyle platform** connecting Muslims living in and visiting Korea with halal food, prayer spaces, beauty products, and community.
 
@@ -8,12 +8,12 @@
 
 ## 📌 The Problem
 
-Muslims in Korea — both residents and tourists — face daily friction:
+Muslims in Korea both residents and tourists face daily friction:
 
-- **"Is this food halal?"** — No reliable, centralized verification source
-- **"Where can I pray?"** — Prayer rooms are scattered and hard to find
-- **"Is this cosmetic safe?"** — Ingredient labels are in Korean with no halal guidance
-- **"Where can I go without discomfort?"** — Limited Muslim-friendly infrastructure vs. rapidly growing demand
+- **"Is this food halal?"** No reliable, centralized verification source
+- **"Where can I pray?"** Prayer rooms are scattered and hard to find
+- **"Is this cosmetic safe?"** Ingredient labels are in Korean with no halal guidance
+- **"Where can I go without discomfort?"** Limited Muslim-friendly infrastructure vs. rapidly growing demand
 
 Korea hosts **98,000 Muslim residents** and receives over **1 million Muslim tourists per year** (33% YoY growth), yet there is no unified platform serving this community.
 
@@ -21,7 +21,7 @@ Korea hosts **98,000 Muslim residents** and receives over **1 million Muslim tou
 
 ## 💡 The Solution
 
-**Halako** is a super app built specifically for Muslims in Korea. It aggregates halal lifestyle services into a single, trusted, culturally sensitive platform — reducing uncertainty, saving time, and building community.
+**Halako** is a super app built specifically for Muslims in Korea. It aggregates halal lifestyle services into a single, trusted, culturally sensitive platform reducing uncertainty, saving time, and building community.
 
 ---
 
@@ -37,7 +37,7 @@ Korea hosts **98,000 Muslim residents** and receives over **1 million Muslim tou
 
 ---
 
-## 🖥️ Prototype
+## Prototype
 
 Explore the interactive Figma prototype below:
 
@@ -55,7 +55,7 @@ Explore the interactive Figma prototype below:
 
 ---
 
-## 💰 Business Model
+## Business Model
 
 | Revenue Stream | Details |
 |---|---|
@@ -69,18 +69,18 @@ Explore the interactive Figma prototype below:
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 | Phase | Timeline | Goal |
 |---|---|---|
 | **MVP Soft Launch** | 0–3 months | App Store live, Seoul listings, first users onboarded |
-| **Growth Optimization** | 3–6 months | Paid ads, referral program, expand nationwide — 2,000 MAU |
+| **Growth Optimization** | 3–6 months | Paid ads, referral program, expand nationwide 2,000 MAU |
 | **Scale & Expansion** | 6–12 months | 15,000 MAU, 150–180K ARR, 2,000 business partners |
 | **Series A Ready** | 12–18 months | 50,000 users, strong monetization, next funding round |
 
 ---
 
-## 🤝 Team
+## Team
 
 | Name | Role | Responsibility |
 |---|---|---|
@@ -93,14 +93,14 @@ Explore the interactive Figma prototype below:
 
 ## 📁 Project Files
 
-- [`halako-Presentation-2.pdf`](./halako-Presentation-2.pdf) — Investor pitch deck
-- [`Halako-2.pdf`](./Halako-2.pdf) — Business canvas and platform overview
+- [`halako-Presentation-2.pdf`](./halako-Presentation-2.pdf) Investor pitch deck
+- [`Halako-2.pdf`](./Halako-2.pdf) Business canvas and platform overview
 
 ---
 
 ## 🏫 About This Project
 
-Halako is a class project developed as part of the **Global MBA Program** at Korea University. It represents an end-to-end startup concept — from problem discovery and market research to product design, business modeling, and investor pitch.
+Halako is a class project developed as part of the **Global MBA Program** at Korea University. It represents an end-to-end startup concept from problem discovery and market research to product design, business modeling, and investor pitch.
 
 ---
 
