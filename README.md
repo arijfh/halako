@@ -91,10 +91,10 @@ Explore the interactive Figma prototype below:
 
 ---
 
-## 📁 Project Files
+## 📁 Project File
 
 - [`halako-Presentation-2.pdf`](./Halako_Final_organized.pdf) Investor pitch deck
-- [`Halako-2.pdf`](./Halako-2.pdf) Business canvas and platform overview
+
 
 ---
 
